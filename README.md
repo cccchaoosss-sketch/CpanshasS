@@ -17,7 +17,8 @@
 
 ## Screenshot
 
-这里放软件截图
+<img width="820" height="640" alt="image" src="https://github.com/user-attachments/assets/e922d439-1b7a-4186-b2d8-03216d1592ce" />
+
 
 ## 使用方法
 
